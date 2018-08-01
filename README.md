@@ -1,2 +1,2 @@
-# http-ecsekitibi.github.io
+# ecsekitibi.github.io
 This is my first webpage ever
